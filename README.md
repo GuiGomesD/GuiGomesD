@@ -2,6 +2,9 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-psi-eight-71.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
+
+ ![Stats](https://github-readme-stats.vercel.app/api?username=GuiGomesD&show_icons=false&theme=transparent&card_width=340)
+
  
  &nbsp;
  &nbsp;
