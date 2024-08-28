@@ -3,7 +3,7 @@
 <img width=40% align="center" src="https://github-readme-stats-psi-eight-71.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
 
- ![Stats](https://github-readme-stats.vercel.app/api?username=GuiGomesD&show_icons=false&theme=transparent&card_width=340)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GuiGomesD&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
 
  
  &nbsp;
