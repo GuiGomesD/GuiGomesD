@@ -1,6 +1,9 @@
  &nbsp;
  &nbsp;
 
+## Github Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DjallenDias&show_icons=false&theme=transparent&card_width=340)
+
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GuiGomesD&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
 
 ## My Skills
