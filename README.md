@@ -1,5 +1,4 @@
  &nbsp;
- &nbsp;
 
 ## Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=GuiGomesD&show_icons=false&theme=transparent&card_width=340)
