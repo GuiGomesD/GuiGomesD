@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 👋 <strong>Hi, I'm Guilherme Gomes!</strong> <br><br>
 🌱 <strong>About Me: </strong> <br><br>
 I'm a Computer Science student and software developer passionate about technology and problem-solving. Currently, I'm focused on web development and constantly improving my skills through new challenges. <br><br>
