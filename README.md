@@ -1,4 +1,4 @@
-👋 <strong>Hi, I'm Guilherme Gomes!</strong> <br><br>
+👋 <h1>Hi, I'm Guilherme Gomes!</h1> <br><br>
 🌱 <strong>About Me: </strong> <br><br>
 I'm a Computer Science student and software developer passionate about technology and problem-solving. Currently, I'm focused on web development and constantly improving my skills through new challenges. <br><br>
 
