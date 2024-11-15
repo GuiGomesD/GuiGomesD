@@ -1,4 +1,4 @@
-👋 <h1 align="left">Hey, I'm Gui</h1>
+  <h1 align="left">Hey 👋 I'm Gui</h1>
 🌱 <strong>About Me: </strong> <br><br>
 <p align="left">I'm a Computer Science student and software developer passionate about technology and problem-solving. Currently, I'm focused on web development and constantly improving my skills through new challenges.</p>
 
